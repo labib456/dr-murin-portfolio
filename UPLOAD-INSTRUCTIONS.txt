@@ -1,0 +1,16 @@
+DR. MURIN HOSSAIN PORTFOLIO — GITHUB PAGES UPLOAD
+
+1. Open: https://github.com/labib456/dr-murin-portfolio
+2. Upload everything INSIDE this folder to the repository root:
+   - index.html
+   - styles.css
+   - assets folder
+3. Replace the old files when GitHub asks.
+4. Commit the changes.
+5. Wait 1–3 minutes, then open:
+   https://labib456.github.io/dr-murin-portfolio/
+
+Important:
+- Keep the assets folder name unchanged.
+- Keep dr-murin-hossain.jpeg inside the assets folder.
+- Do not upload the ZIP file itself into the repository.
